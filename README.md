@@ -1,5 +1,7 @@
 # No-NA-in-Policies-Data-By-Country
- CSV Hub for files for Stats M148. This is part of a greater project by Kelly Lei, Shin Naganuma, and Christy Hui.
+ CSV Hub for files for Stats M148. This is part of a greater project by Kelly Lei, Shin Naganuma, and Christy Hui. 
+ 
+ The data was manipulated with before being extracted into these different CSV files.
  
  The data sets consist of countries that have no NAs for the policy data (but do contain NAs for COVID-related statistics).
  
